@@ -8,6 +8,8 @@ Projeto para importar um arquivo de transações utilizando python com django
      
      cd usabit-app
 
+     pip install django pandas openpyxl aiohttp
+
      python3 manage.py migrate
 
      python3 manage.py runserver

@@ -22,5 +22,7 @@ Criando comando em python para importação de uma planilha de transações(xls)
 
 Acesso a área administrativa
  > http://127.0.0.1:8000/admin/
+
  > login  : admin
+
  > senha : admin 
